@@ -78,3 +78,9 @@ th, td {
     padding: 10px;
     text-align: left;
 }
+
+footer > h1 {
+    color: #007bff;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
